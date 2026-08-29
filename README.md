@@ -37,13 +37,13 @@ handled across both the open-source (QGIS) and commercial Esri GIS stacks.
 Buildings and roads extracted via QuickOSM/OpenStreetMap, styled and exported
 to GeoJSON for downstream use.
 
-![QGIS source data extraction](./screenshots/QGIS_Source_data.png)
+![QGIS source data extraction](./screenshots/QGISSourceData.png)
 
 ### 2. Interactive web map — ArcGIS Online
 Both layers published as hosted feature layers and combined into a styled,
 interactive web map.
 
-![ArcGIS Online web map](./screenshots/ArcGIS_Online_web_map.png)
+![ArcGIS Online web map](./screenshots/ArcGISOnlineWebMap.png)
 
 ### 3. Operational dashboard — ArcGIS Dashboards
 Live feature counts (28.8k roads, 15.7k buildings) alongside the interactive
